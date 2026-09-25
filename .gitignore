@@ -16,3 +16,13 @@ __pycache__/
 # Temporary files
 *.tmp
 *.log
+
+# Android local Gradle
+android_app_v1/.gradle/
+android_app_v1/local.properties
+
+# Local backups
+android_app_v1/app/*.backup_*
+
+# Java compiled tests
+android_app_v1/nexus_compile_test/*.class
