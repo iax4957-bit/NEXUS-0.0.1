@@ -1,0 +1,20 @@
+{
+    "CPU": {
+        "1000000": {
+            "4": {
+                "PROCESS": {
+                    "best_time": 0.327,
+                    "runs": 2
+                },
+                "THREAD": {
+                    "best_time": 2.626,
+                    "runs": 1
+                },
+                "SEQUENTIAL": {
+                    "best_time": 1.082,
+                    "runs": 1
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+NEXUS 0.0.1 — LOAD ESCALATION BENCHMARK
+========================================
+
+Purpose:
+Progressive workload test from 50M to 1B operations.
+
+50M
+Direct: 32.656894 s
+NEXUS: 32.672149 s
+Result: CORRECT
+Status: PASS
+
+100M
+Direct: 65.561818 s
+NEXUS: 65.216789 s
+Result: CORRECT
+Status: PASS
+
+200M
+Direct: 134.217639 s
+NEXUS: 131.894756 s
+Learned: PROCESS x1
+Result: CORRECT
+Status: PASS
+
+300M
+Direct: 198.561157 s
+NEXUS: 197.848897 s
+Learned: THREAD x1
+Result: CORRECT
+Status: PASS
+
+500M
+Direct: 337.026155 s
+NEXUS: 333.811660 s
+Learned: THREAD x1
+Result: CORRECT
+Status: PASS
+
+750M
+Direct: 492.685492 s
+NEXUS: 490.507290 s
+Learned: THREAD x1
+Result: CORRECT
+Status: PASS
+
+1B
+Direct: 694.995629 s
+NEXUS: 811.690081 s
+Learned: THREAD x1
+Result: CORRECT
+Status: PASS
+
+Final:
+1,000,000,000 operations completed successfully.
+Total experiences: 19
+Memory: nexus_game_memory_v3.json
+========================================

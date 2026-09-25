@@ -1,0 +1,42 @@
+[
+  {
+    "workload": 10000,
+    "direct_time": 0.0064800519903656095,
+    "nexus_time": 0.009212240023771301,
+    "correct": true,
+    "direct_result": 50019328.85279294,
+    "nexus_result": 50019328.85279294
+  },
+  {
+    "workload": 50000,
+    "direct_time": 0.03494588501052931,
+    "nexus_time": 0.03778156198677607,
+    "correct": true,
+    "direct_result": 1250062027.856213,
+    "nexus_result": 1250062027.856213
+  },
+  {
+    "workload": 100000,
+    "direct_time": 0.0708278639940545,
+    "nexus_time": 0.07444651101832278,
+    "correct": true,
+    "direct_result": 5000113191.322794,
+    "nexus_result": 5000113191.322794
+  },
+  {
+    "workload": 500000,
+    "direct_time": 0.33739494800101966,
+    "nexus_time": 0.3305952080118004,
+    "correct": true,
+    "direct_result": 125000515893.47781,
+    "nexus_result": 125000515893.47781
+  },
+  {
+    "workload": 1000000,
+    "direct_time": 0.6756890619872138,
+    "nexus_time": 0.6561879169894382,
+    "correct": true,
+    "direct_result": 500001017057.2263,
+    "nexus_result": 500001017057.2263
+  }
+]

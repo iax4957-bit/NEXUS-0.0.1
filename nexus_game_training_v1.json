@@ -1,0 +1,42 @@
+[
+  {
+    "workload": 10000,
+    "jobs": 4,
+    "direct_time": 0.026335988979553804,
+    "parallel_time": 0.03412901100818999,
+    "best": "DIRECT",
+    "correct": true
+  },
+  {
+    "workload": 50000,
+    "jobs": 4,
+    "direct_time": 0.13581448001787066,
+    "parallel_time": 0.13867281199782155,
+    "best": "DIRECT",
+    "correct": true
+  },
+  {
+    "workload": 100000,
+    "jobs": 4,
+    "direct_time": 0.2617185419949237,
+    "parallel_time": 0.5469410940131638,
+    "best": "DIRECT",
+    "correct": true
+  },
+  {
+    "workload": 500000,
+    "jobs": 4,
+    "direct_time": 1.3650872909929603,
+    "parallel_time": 2.759499999025138,
+    "best": "DIRECT",
+    "correct": true
+  },
+  {
+    "workload": 1000000,
+    "jobs": 4,
+    "direct_time": 2.6532106769736856,
+    "parallel_time": 6.116776768991258,
+    "best": "DIRECT",
+    "correct": true
+  }
+]

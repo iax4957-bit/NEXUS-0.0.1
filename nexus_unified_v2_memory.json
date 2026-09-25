@@ -1,0 +1,306 @@
+{
+  "2:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.006,
+    "runs": 4,
+    "successes": 4,
+    "failures": 0
+  },
+  "2:0:THREAD:2": {
+    "backend": "THREAD",
+    "workers": 2,
+    "avg_time": 0.01,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "2:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.14433228291708897,
+    "runs": 12,
+    "successes": 11,
+    "failures": 1
+  },
+  "2:0:PROCESS:2": {
+    "backend": "PROCESS",
+    "workers": 2,
+    "avg_time": 0.007152222336890797,
+    "runs": 3,
+    "successes": 3,
+    "failures": 0
+  },
+  "4:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.11726864549564198,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "4:0:THREAD:2": {
+    "backend": "THREAD",
+    "workers": 2,
+    "avg_time": 0.2273797395027941,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "4:0:THREAD:3": {
+    "backend": "THREAD",
+    "workers": 3,
+    "avg_time": 0.22779804650053848,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "4:0:THREAD:4": {
+    "backend": "THREAD",
+    "workers": 4,
+    "avg_time": 0.3033848955092253,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "4:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.1452950254897587,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "4:0:PROCESS:2": {
+    "backend": "PROCESS",
+    "workers": 2,
+    "avg_time": 0.07499463549174834,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "4:0:PROCESS:3": {
+    "backend": "PROCESS",
+    "workers": 3,
+    "avg_time": 0.07472617199528031,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "4:0:PROCESS:4": {
+    "backend": "PROCESS",
+    "workers": 4,
+    "avg_time": 0.0603384048663429,
+    "runs": 8,
+    "successes": 8,
+    "failures": 0
+  },
+  "3:5:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.0006644270033575594,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "3:5:THREAD:2": {
+    "backend": "THREAD",
+    "workers": 2,
+    "avg_time": 0.0006336042017210275,
+    "runs": 5,
+    "successes": 5,
+    "failures": 0
+  },
+  "3:5:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.009315806993981823,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "3:5:PROCESS:2": {
+    "backend": "PROCESS",
+    "workers": 2,
+    "avg_time": 0.013670234504388645,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "1:2:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.0004869063966907561,
+    "runs": 5,
+    "successes": 5,
+    "failures": 0
+  },
+  "1:2:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.009694843494798988,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "1:1:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.0005858957942109555,
+    "runs": 5,
+    "successes": 5,
+    "failures": 0
+  },
+  "1:1:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.010457942495122552,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "1:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 60.59301131700032,
+    "runs": 33,
+    "successes": 33,
+    "failures": 0
+  },
+  "1:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 27.830945468600838,
+    "runs": 5,
+    "successes": 5,
+    "failures": 0
+  },
+  "1:0:10000:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.009038905991474167,
+    "runs": 6,
+    "successes": 6,
+    "failures": 0
+  },
+  "1:0:10000:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.022046510013751686,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "1:0:1000000:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.6564764576517822,
+    "runs": 6,
+    "successes": 6,
+    "failures": 0
+  },
+  "1:0:1000000:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.6643114579492249,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "1:0:10000000:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 6.520082514665167,
+    "runs": 6,
+    "successes": 6,
+    "failures": 0
+  },
+  "1:0:10000000:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 6.53293255000608,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "1:0:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.0007220521021736204,
+    "runs": 10,
+    "successes": 10,
+    "failures": 0
+  },
+  "1:0:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.013275025994516909,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "2:0:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.0009318487323071167,
+    "runs": 4,
+    "successes": 4,
+    "failures": 0
+  },
+  "2:0:0:THREAD:2": {
+    "backend": "THREAD",
+    "workers": 2,
+    "avg_time": 0.0008990887415620819,
+    "runs": 8,
+    "successes": 8,
+    "failures": 0
+  },
+  "2:0:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.010216380003839731,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "2:0:0:PROCESS:2": {
+    "backend": "PROCESS",
+    "workers": 2,
+    "avg_time": 0.014002968469867483,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "1:2:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.0005168490013147675,
+    "runs": 8,
+    "successes": 8,
+    "failures": 0
+  },
+  "1:2:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.010097083519212902,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "1:1:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.0003783860011026263,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "1:1:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.014096197999606375,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  }
+}

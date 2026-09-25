@@ -1,0 +1,18 @@
+# Android generated/build files
+android_app_v1/build/
+android_app_v1/apk_build/
+
+# Android SDK/tools
+android_app_v1/sdk-tools/
+
+# APK outputs
+*.apk
+*.apk.idsig
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log

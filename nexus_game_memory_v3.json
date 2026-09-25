@@ -1,0 +1,170 @@
+[
+  {
+    "workload": 10000,
+    "direct_time": 0.006547969009261578,
+    "nexus_time": 0.0093842190108262,
+    "correct": true,
+    "direct_result": 50019328.85279294,
+    "nexus_result": 50019328.85279294
+  },
+  {
+    "workload": 50000,
+    "direct_time": 0.036513333005132154,
+    "nexus_time": 0.040131822985131294,
+    "correct": true,
+    "direct_result": 1250062027.856213,
+    "nexus_result": 1250062027.856213
+  },
+  {
+    "workload": 100000,
+    "direct_time": 0.07293890698929317,
+    "nexus_time": 0.06921661499654874,
+    "correct": true,
+    "direct_result": 5000113191.322794,
+    "nexus_result": 5000113191.322794
+  },
+  {
+    "workload": 500000,
+    "direct_time": 0.34417687499080785,
+    "nexus_time": 0.3356444270175416,
+    "correct": true,
+    "direct_result": 125000515893.47781,
+    "nexus_result": 125000515893.47781
+  },
+  {
+    "workload": 1000000,
+    "direct_time": 0.674769530975027,
+    "nexus_time": 0.6594238019897602,
+    "correct": true,
+    "direct_result": 500001017057.2263,
+    "nexus_result": 500001017057.2263
+  },
+  {
+    "workload": 2000000,
+    "direct_time": 1.376086561998818,
+    "nexus_time": 1.307474478991935,
+    "correct": true,
+    "direct_result": 2000002018218.1948,
+    "nexus_result": 2000002018218.1948
+  },
+  {
+    "workload": 5000000,
+    "direct_time": 3.602842342981603,
+    "nexus_time": 3.2684679679805413,
+    "correct": true,
+    "direct_result": 12500005019463.205,
+    "nexus_result": 12500005019463.205
+  },
+  {
+    "workload": 10000000,
+    "direct_time": 7.3115879140095785,
+    "nexus_time": 6.5329521849926095,
+    "correct": true,
+    "direct_result": 50000010019465.055,
+    "nexus_result": 50000010019465.055
+  },
+  {
+    "workload": 2000000,
+    "direct_time": 1.3377035410085227,
+    "nexus_time": 1.3330697919882368,
+    "correct": true,
+    "direct_result": 2000002018218.1948,
+    "nexus_result": 2000002018218.1948
+  },
+  {
+    "workload": 5000000,
+    "direct_time": 3.281631821009796,
+    "nexus_time": 3.2636573950003367,
+    "correct": true,
+    "direct_result": 12500005019463.205,
+    "nexus_result": 12500005019463.205
+  },
+  {
+    "workload": 10000000,
+    "direct_time": 6.690268487000139,
+    "nexus_time": 6.528940986987436,
+    "correct": true,
+    "direct_result": 50000010019465.055,
+    "nexus_result": 50000010019465.055
+  },
+  {
+    "workload": 20000000,
+    "direct_time": 13.166723223985173,
+    "nexus_time": 13.087731400999473,
+    "correct": true,
+    "direct_result": 200000020019465.06,
+    "nexus_result": 200000020019465.06
+  },
+  {
+    "workload": 50000000,
+    "direct_time": 32.65689446698525,
+    "nexus_time": 32.67214936198434,
+    "correct": true,
+    "direct_result": 1250000050019465.2,
+    "nexus_result": 1250000050019465.2
+  },
+  {
+    "workload": 100000000,
+    "direct_time": 65.56181778700557,
+    "nexus_time": 65.2167893499718,
+    "correct": true,
+    "direct_result": 5000000102566332.0,
+    "nexus_result": 5000000102566332.0
+  },
+  {
+    "workload": 200000000,
+    "direct_time": 134.21763932399335,
+    "nexus_time": 131.89475619999575,
+    "correct": true,
+    "direct_result": 2.000000021967519e+16,
+    "nexus_result": 2.000000021967519e+16
+  },
+  {
+    "workload": 300000000,
+    "direct_time": 198.56115695499466,
+    "nexus_time": 197.84889747697162,
+    "correct": true,
+    "direct_result": 4.500000031967519e+16,
+    "nexus_result": 4.500000031967519e+16
+  },
+  {
+    "workload": 500000000,
+    "direct_time": 337.0261545589892,
+    "nexus_time": 333.81165997701464,
+    "correct": true,
+    "direct_result": 1.2500000051967522e+17,
+    "nexus_result": 1.2500000051967522e+17
+  },
+  {
+    "workload": 750000000,
+    "direct_time": 492.68549215601524,
+    "nexus_time": 490.50729017704725,
+    "correct": true,
+    "direct_result": 2.812500007696752e+17,
+    "nexus_result": 2.812500007696752e+17
+  },
+  {
+    "workload": 1000000000,
+    "direct_time": 694.9956293709693,
+    "nexus_time": 811.6900806800113,
+    "correct": true,
+    "direct_result": 5.000000010196752e+17,
+    "nexus_result": 5.000000010196752e+17
+  },
+  {
+    "workload": 10000,
+    "direct_time": 0.006772812979761511,
+    "nexus_time": 0.025217968970537186,
+    "correct": true,
+    "direct_result": 50019328.85279294,
+    "nexus_result": 50019328.85279294
+  },
+  {
+    "workload": 10000,
+    "direct_time": 0.006528228987008333,
+    "nexus_time": 0.022672968974802643,
+    "correct": true,
+    "direct_result": 50019328.85279294,
+    "nexus_result": 50019328.85279294
+  }
+]

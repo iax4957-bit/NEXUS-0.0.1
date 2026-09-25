@@ -1,0 +1,10 @@
+{
+    "PROCESS": {
+        "successes": 1,
+        "failures": 9
+    },
+    "THREAD": {
+        "successes": 10,
+        "failures": 0
+    }
+}

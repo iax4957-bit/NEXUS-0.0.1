@@ -1,0 +1,20 @@
+{
+    "CPU": {
+        "1000000": {
+            "4": {
+                "PROCESS": {
+                    "best_time": 0.3,
+                    "average_time": 0.3,
+                    "runs": 3,
+                    "last_run": 1789506034.4856946
+                },
+                "THREAD": {
+                    "best_time": 0.2,
+                    "average_time": 0.21489450524895803,
+                    "runs": 4,
+                    "last_run": 1789506034.7461274
+                }
+            }
+        }
+    }
+}

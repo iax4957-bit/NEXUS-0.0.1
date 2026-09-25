@@ -1,0 +1,10 @@
+
+result=runtime.execute("CPU",4,tasks)
+print("NEXUS V5 FALLBACK TEST")
+print("Requested:",result["requested_backend"])
+print("Used:",result["backend"])
+print("Fallback:",result["fallback_used"])
+print("Errors:",result["errors"])
+print("Results:",result["results"])
+print("PASS:",result["fallback_used"] and result["backend"]!="PROCESS" and len(result["errors"])>0)
+/data/data/com.termux/files/home/NEXUS-0.0.1

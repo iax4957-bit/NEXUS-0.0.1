@@ -1,0 +1,14 @@
+{
+    "SEQUENTIAL": {
+        "successes": 6,
+        "failures": 0
+    },
+    "THREAD": {
+        "successes": 6,
+        "failures": 0
+    },
+    "PROCESS": {
+        "successes": 6,
+        "failures": 0
+    }
+}

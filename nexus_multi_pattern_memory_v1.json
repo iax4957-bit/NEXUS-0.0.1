@@ -1,0 +1,162 @@
+{
+  "1:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.11115312500623986,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "1:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.11627302100532688,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "2:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.6666439589753281,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "2:0:THREAD:2": {
+    "backend": "THREAD",
+    "workers": 2,
+    "avg_time": 1.5990801549924072,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "2:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.6917455210059416,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "2:0:PROCESS:2": {
+    "backend": "PROCESS",
+    "workers": 2,
+    "avg_time": 0.34943382801429834,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "3:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.48111244800384156,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "3:0:THREAD:2": {
+    "backend": "THREAD",
+    "workers": 2,
+    "avg_time": 1.0222493750043213,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "3:0:THREAD:3": {
+    "backend": "THREAD",
+    "workers": 3,
+    "avg_time": 1.0044791669934057,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "3:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.4848024479870219,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "3:0:PROCESS:2": {
+    "backend": "PROCESS",
+    "workers": 2,
+    "avg_time": 0.325858228985453,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "3:0:PROCESS:3": {
+    "backend": "PROCESS",
+    "workers": 3,
+    "avg_time": 0.18571257799339946,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  },
+  "4:0:THREAD:1": {
+    "backend": "THREAD",
+    "workers": 1,
+    "avg_time": 0.7187806770089082,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "4:0:THREAD:2": {
+    "backend": "THREAD",
+    "workers": 2,
+    "avg_time": 1.8717947909899522,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "4:0:THREAD:3": {
+    "backend": "THREAD",
+    "workers": 3,
+    "avg_time": 1.550169478985481,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "4:0:THREAD:4": {
+    "backend": "THREAD",
+    "workers": 4,
+    "avg_time": 1.6946584889956284,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "4:0:PROCESS:1": {
+    "backend": "PROCESS",
+    "workers": 1,
+    "avg_time": 0.7561764580023009,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "4:0:PROCESS:2": {
+    "backend": "PROCESS",
+    "workers": 2,
+    "avg_time": 0.3812035410082899,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "4:0:PROCESS:3": {
+    "backend": "PROCESS",
+    "workers": 3,
+    "avg_time": 0.3827554690069519,
+    "runs": 1,
+    "successes": 1,
+    "failures": 0
+  },
+  "4:0:PROCESS:4": {
+    "backend": "PROCESS",
+    "workers": 4,
+    "avg_time": 0.2170030210108962,
+    "runs": 2,
+    "successes": 2,
+    "failures": 0
+  }
+}

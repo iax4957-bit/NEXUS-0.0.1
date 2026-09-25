@@ -1,0 +1,29 @@
+NEXUS 0.0.1 - OFFICIAL CPU BENCHMARK
+
+Date: 2026-09-15
+
+Workload:
+4 CPU-bound tasks
+n = 1,000,000
+Same input and same expected results
+
+RESULTS
+Sequential: 1.082 seconds
+Threads:    2.626 seconds
+Processes:  0.327 seconds
+
+SPEEDUP
+Threads:   0.41x
+Processes: 3.31x
+
+CORRECTNESS
+Thread results match: True
+Process results match: True
+
+CONCLUSION
+Process-based parallel execution was 3.31x faster
+than sequential execution for this benchmark.
+
+NOTE
+This benchmark measures the execution strategy,
+not the raw physical CPU performance of the device.
