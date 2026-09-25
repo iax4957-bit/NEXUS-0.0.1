@@ -26,3 +26,6 @@ android_app_v1/app/*.backup_*
 
 # Java compiled tests
 android_app_v1/nexus_compile_test/*.class
+
+# Compiled Java classes
+android_app_v1/nexus_compile_test/**/*.class
